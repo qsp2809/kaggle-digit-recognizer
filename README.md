@@ -1,1 +1,3 @@
-# kaggle-digit-recognizer
+# Kaggle: Digit Recognizer
+
+https://www.kaggle.com/competitions/digit-recognizer
